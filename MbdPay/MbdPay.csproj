@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>MbdPay</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>yangming</Authors>
+    <Description>面包多Pay (MianBaoDuo Pay) C# SDK</Description>
+    <PackageProjectUrl>https://doc.mbd.pub</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/yangming/mbdpay-csharp</RepositoryUrl>
+    <LicenseExpression>MIT</LicenseExpression>
+    <PackageTags>payment;mbdpay;mianbaoduo;wechat;alipay</PackageTags>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
